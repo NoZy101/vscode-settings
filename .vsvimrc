@@ -1,0 +1,5 @@
+﻿inoremap jk <Esc>
+set scrolloff=10
+set clipboard=unnamed
+set number
+set relativenumber
